@@ -1,5 +1,6 @@
 let btn = document.querySelector('.wrapper')
 let bcg = document.querySelector('.cta')
+let path = document.querySelector('path')
 
 
 function getRandomColor() {
